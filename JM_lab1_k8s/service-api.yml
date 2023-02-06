@@ -1,0 +1,11 @@
+﻿apiVersion: v1
+kind: Service
+metadata:
+  name: service-api-l1
+spec:
+  type: NodePort
+  selector:
+    app: mc-api-l1
+  ports:
+    - port: 8080
+      targetPort: 80

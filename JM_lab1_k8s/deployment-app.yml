@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dep-app-l1
+  labels:
+    app: app-l1
+spec:
+  replicas: 1
+  selector: 
+    matchLabels:
+      app: mc-app-l1
+  template:
+    metadata: 
+      labels:
+        app: mc-app-l1
+    spec:
+      containers:
+        - name: app-l1
+          image: multiapp-l1
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 80
+          env:
+            - name: WebApiBaseAddress
+              value: http://service-api-l1:8080/api/Joke

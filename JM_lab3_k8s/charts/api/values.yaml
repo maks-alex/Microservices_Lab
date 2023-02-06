@@ -1,0 +1,35 @@
+replicaCount: 1
+
+selector:
+  app: l3-mc-api-v6
+
+image:
+  name: l2-multiapi-v6
+  tag: v6
+  port: 80
+
+service:
+  ports:
+    - name: http
+      port: 8080
+      containerPort: 80
+
+ingress:
+  path: /l3api6/Jokes
+  port: 8080
+
+# migrations:
+#   image:
+#     name: service1-migrations
+#     tag: 0.1
+#   config:
+#     POSTGRESQL_URL: "postgres://demo:demo@postgres:5432/demo?sslmode=disable"
+#     VERSION: "20211128095755"
+
+# configs:
+#   POSTGRES_DB: demo
+#   POSTGRES_HOST: postgres
+
+# secrets:
+#   POSTGRES_USER: "ZGVtbw=="
+#   POSTGRES_PASSWORD: "ZGVtbw=="

@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: l2-dep-apipost
+  labels:
+    app: l2-apipost
+spec:
+  replicas: 1
+  selector: 
+    matchLabels:
+      app: l2-mc-apipost
+  template:
+    metadata: 
+      labels:
+        app: l2-mc-apipost
+    spec:
+      containers:
+        - name: l2-apipost
+          image: l2-multiapipost
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 80

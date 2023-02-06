@@ -1,0 +1,27 @@
+replicaCount: 1
+
+selector:
+  app: l3-mc-app-v6
+
+image:
+  name: l2-multiapp-v6
+  tag: v6
+  port: 80
+
+service:
+  ports:
+    - name: http
+      port: 8080
+      containerPort: 80
+
+ingress:
+  path: /l3app6/Jokes
+  port: 8080
+
+environmentvar:
+  api:
+    name: WebApiBaseAddress
+    value: http://l3-service-api-v6:8080/api/Jokes
+  apipost:
+    name: WebApiPostBaseAddress
+    value: http://l3-service-apipost-v6:8080/api/JokesPost

@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dep-api-l1
+  labels:
+    app: api-l1
+spec:
+  replicas: 1
+  selector: 
+    matchLabels:
+      app: mc-api-l1
+  template:
+    metadata: 
+      labels:
+        app: mc-api-l1
+    spec:
+      containers:
+        - name: api-l1
+          image: multiapi-l1
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 80

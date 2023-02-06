@@ -1,0 +1,24 @@
+services:
+  multiapi:
+    build:
+      context: E:\Yogesh\SEO\Yogihosting\new\k8s\kubernetes multi conainer mulitple
+        pods\MultiApp
+      dockerfile: MultiApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: multiapi
+    ports:
+    - target: 80
+  multiapp:
+    build:
+      context: E:\Yogesh\SEO\Yogihosting\new\k8s\kubernetes multi conainer mulitple
+        pods\MultiApp
+      dockerfile: MultiApp/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: multiapp
+    ports:
+    - target: 80
+    volumes:
+    - C:\Users\Avita\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

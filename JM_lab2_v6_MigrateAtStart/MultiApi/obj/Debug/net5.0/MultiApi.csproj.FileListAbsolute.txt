@@ -1,0 +1,205 @@
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\MultiApi.exe
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\MultiApi.deps.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\MultiApi.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\MultiApi.runtimeconfig.dev.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\MultiApi.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\ref\MultiApi.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\MultiApi.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.csprojAssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\staticwebassets\MultiApi.StaticWebAssets.Manifest.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\staticwebassets\MultiApi.StaticWebAssets.xml
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\scopedcss\bundle\MultiApi.styles.css
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.RazorTargetAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\ref\MultiApi.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApi\obj\Debug\net5.0\MultiApi.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\appsettings.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\MultiApi.StaticWebAssets.xml
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\MultiApi.exe
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\MultiApi.deps.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\MultiApi.runtimeconfig.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\MultiApi.runtimeconfig.dev.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\MultiApi.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.csproj.AssemblyReference.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.AssemblyInfoInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.AssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.csproj.CoreCompileInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\scopedcss\bundle\MultiApi.styles.css
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\staticwebassets\MultiApi.StaticWebAssets.Manifest.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.RazorTargetAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.csproj.CopyComplete
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\refint\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\MultiApi.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\obj\Debug\net5.0\ref\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Humanizer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\appsettings.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.StaticWebAssets.xml
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.exe
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.deps.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.runtimeconfig.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.runtimeconfig.dev.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Humanizer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.csproj.AssemblyReference.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.AssemblyInfoInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.AssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.csproj.CoreCompileInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\scopedcss\bundle\MultiApi.styles.css
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\staticwebassets\MultiApi.StaticWebAssets.Manifest.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.RazorTargetAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.csproj.CopyComplete
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\refint\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1_localDB_2Api_MigrateAtStart\MultiApi\obj\Debug\net5.0\ref\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.StaticWebAssets.xml
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\appsettings.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.exe
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.deps.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.runtimeconfig.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.runtimeconfig.dev.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\MultiApi.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Humanizer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.csproj.AssemblyReference.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.AssemblyInfoInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.AssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.csproj.CoreCompileInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\scopedcss\bundle\MultiApi.styles.css
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\staticwebassets\MultiApi.StaticWebAssets.Manifest.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.RazorTargetAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.csproj.CopyComplete
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\refint\MultiApi.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\MultiApi.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v6_MigrateAtStart\MultiApi\obj\Debug\net5.0\ref\MultiApi.dll

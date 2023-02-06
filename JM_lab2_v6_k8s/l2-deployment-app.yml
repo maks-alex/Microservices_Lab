@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: l2-dep-app-v6
+  labels:
+    app: l2-app-v6
+spec:
+  replicas: 1
+  selector: 
+    matchLabels:
+      app: l2-mc-app-v6
+  template:
+    metadata: 
+      labels:
+        app: l2-mc-app-v6
+    spec:
+      containers:
+        - name: l2-app-v6
+          image: l2-multiapp-v6:v6
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 80
+          env:
+            - name: WebApiBaseAddress
+              value: http://l2-service-api-v6:8080/api/Jokes
+            - name: WebApiPostBaseAddress
+              value: http://l2-service-apipost-v6:8080/api/JokesPost

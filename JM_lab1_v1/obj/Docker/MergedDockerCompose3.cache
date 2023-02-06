@@ -1,0 +1,38 @@
+name: dockercompose5566155009987980299
+services:
+  multiapi:
+    build:
+      context: D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab1_v1
+      dockerfile: MultiApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: multiapi-l1
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  multiapp:
+    build:
+      context: D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab1_v1
+      dockerfile: MultiApp/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: multiapp-l1
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\User\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose5566155009987980299_default

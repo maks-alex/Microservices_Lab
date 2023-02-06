@@ -1,0 +1,12 @@
+﻿apiVersion: v1
+kind: Service
+metadata:
+  name: l2-mssql-service
+spec:
+  selector:
+    app: l2-mssql
+  type: NodePort  
+  ports:
+    - protocol: TCP
+      port: 1433
+      targetPort: 1433

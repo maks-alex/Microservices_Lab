@@ -1,0 +1,57 @@
+version: '3.4'
+
+services:
+  multiapi:
+    image: multiapi:dev
+    container_name: MultiApi
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "MultiApi"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_multiapi$
+    volumes:
+      - E:\Yogesh\SEO\Yogihosting\new\k8s\kubernetes multi conainer mulitple pods\MultiApp\MultiApi:/app
+      - E:\Yogesh\SEO\Yogihosting\new\k8s\kubernetes multi conainer mulitple pods\MultiApp:/src
+      - C:\Users\Avita\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_multiapi$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_multiapi$ \"/app/bin/Debug/net5.0/MultiApi.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+  multiapp:
+    image: multiapp:dev
+    container_name: MultiApp
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "MultiApp"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_multiapp$
+    volumes:
+      - E:\Yogesh\SEO\Yogihosting\new\k8s\kubernetes multi conainer mulitple pods\MultiApp\MultiApp:/app
+      - E:\Yogesh\SEO\Yogihosting\new\k8s\kubernetes multi conainer mulitple pods\MultiApp:/src
+      - C:\Users\Avita\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_multiapp$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_multiapp$ \"/app/bin/Debug/net5.0/MultiApp.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

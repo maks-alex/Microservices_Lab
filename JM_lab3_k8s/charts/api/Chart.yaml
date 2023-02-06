@@ -1,0 +1,6 @@
+apiVersion: v2
+type: application
+version: 0.1.0
+name: api
+appVersion: "v6"
+description: "lab3"

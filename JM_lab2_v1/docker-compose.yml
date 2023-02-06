@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+  multiapp:
+    image: ${DOCKER_REGISTRY-}l2-multiapp
+    build:
+      context: .
+      dockerfile: MultiApp/Dockerfile
+
+  multiapipost:
+    image: ${DOCKER_REGISTRY-}l2-multiapipost
+    build:
+      context: .
+      dockerfile: MultiApiPost/Dockerfile
+
+  multiapi:
+    image: ${DOCKER_REGISTRY-}l2-multiapi
+    build:
+      context: .
+      dockerfile: MultiApi/Dockerfile

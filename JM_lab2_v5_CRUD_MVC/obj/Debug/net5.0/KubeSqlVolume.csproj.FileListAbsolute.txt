@@ -1,0 +1,222 @@
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.exe
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.deps.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.runtimeconfig.dev.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\ref\KubeSqlVolume.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.Views.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Humanizer.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csprojAssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\staticwebassets\KubeSqlVolume.StaticWebAssets.Manifest.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\staticwebassets\KubeSqlVolume.StaticWebAssets.xml
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\scopedcss\bundle\KubeSqlVolume.styles.css
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.TagHelpers.input.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.TagHelpers.output.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorCoreGenerate.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Update.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorTargetAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorTargetAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\ref\KubeSqlVolume.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\Kubernetes Persistent volumes\KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\appsettings.Development.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\appsettings.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.StaticWebAssets.xml
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.exe
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.deps.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.runtimeconfig.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.runtimeconfig.dev.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.Views.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.Views.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Humanizer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csproj.AssemblyReference.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.AssemblyInfoInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.AssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csproj.CoreCompileInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorAssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\scopedcss\bundle\KubeSqlVolume.styles.css
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\staticwebassets\KubeSqlVolume.StaticWebAssets.Manifest.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.TagHelpers.input.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.TagHelpers.output.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorCoreGenerate.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Update.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorTargetAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorTargetAssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.Views.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csproj.CopyComplete
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\refint\KubeSqlVolume.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Tutorials\KubernetesMy\7_KubeSqlVolume\obj\Debug\net5.0\ref\KubeSqlVolume.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\appsettings.Development.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.StaticWebAssets.xml
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\appsettings.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.exe
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.deps.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.runtimeconfig.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.runtimeconfig.dev.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.Views.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\KubeSqlVolume.Views.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Humanizer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csproj.AssemblyReference.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.AssemblyInfoInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.AssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csproj.CoreCompileInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorAssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\scopedcss\bundle\KubeSqlVolume.styles.css
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\staticwebassets\KubeSqlVolume.StaticWebAssets.Manifest.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.TagHelpers.input.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.TagHelpers.output.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorCoreGenerate.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Home\Update.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorTargetAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.RazorTargetAssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.Views.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.csproj.CopyComplete
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\refint\KubeSqlVolume.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\KubeSqlVolume.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v5\7_KubeSqlVolume\obj\Debug\net5.0\ref\KubeSqlVolume.dll

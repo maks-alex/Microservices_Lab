@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-dep-{{ .Chart.Name }}-{{ .Values.image.tag }}
+  labels:
+    app: {{ .Release.Name }}-{{ .Chart.Name }}-{{ .Values.image.tag }}
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector: 
+    matchLabels:
+      app: {{ .Values.selector.app }}
+  template:
+    metadata: 
+      labels:
+        app: {{ .Values.selector.app }}
+    spec:
+      containers:
+        - name: {{ .Release.Name }}-{{ .Chart.Name }}-{{ .Values.image.tag }}
+          image: {{ .Values.image.name }}:{{ .Values.image.tag }}
+          imagePullPolicy: Never
+          ports:
+            - containerPort: {{ .Values.image.port }}
+              protocol: TCP

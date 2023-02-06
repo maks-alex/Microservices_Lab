@@ -1,0 +1,29 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: l2-ingress-v6
+spec:
+  rules:
+    - http:
+        paths:
+          - path: /l2api6/Jokes        # шлях по якому відбувається перенаправлення на сервіс
+            pathType: Prefix           # все, що починається з `/api` буде направлено на сервіс demo-service. Альтернативно можна використовувати `Exact` та `ImplementationSpecific`
+            backend:
+              service:
+                name: l2-service-api-v6 # ім'я сервісу
+                port:
+                  number: 8080           # порт на якому запущено сервіс
+          - path: /l2api6/JokesPost
+            pathType: Prefix
+            backend:
+              service:
+                name: l2-service-apipost-v6
+                port:
+                  number: 8080
+          - path: /l2api6/app
+            pathType: Prefix
+            backend:
+              service:
+                name: l2-service-app-v6
+                port:
+                  number: 8080

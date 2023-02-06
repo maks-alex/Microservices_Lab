@@ -1,0 +1,11 @@
+﻿apiVersion: v1
+kind: Service
+metadata:
+  name: l2-service-apipost-v6
+spec:
+  type: NodePort
+  selector:
+    app: l2-mc-apipost-v6
+  ports:
+    - port: 8080
+      targetPort: 80

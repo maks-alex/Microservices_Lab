@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  multiapp:
+    image: ${DOCKER_REGISTRY-}multiapp-l1
+    build:
+      context: .
+      dockerfile: MultiApp/Dockerfile
+
+  multiapi:
+    image: ${DOCKER_REGISTRY-}multiapi-l1
+    build:
+      context: .
+      dockerfile: MultiApi/Dockerfile
+

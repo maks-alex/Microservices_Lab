@@ -1,0 +1,22 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: test-crud-deployment
+  labels:
+    app: test-crud-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: test-crud
+  template:
+    metadata:
+      labels:
+        app: test-crud
+    spec:
+      containers:
+        - name: test-crudcontainer
+          image: test-crudapp
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 80

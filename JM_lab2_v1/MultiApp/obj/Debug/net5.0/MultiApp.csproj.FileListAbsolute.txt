@@ -1,0 +1,83 @@
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\MultiApp.exe
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\MultiApp.deps.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\MultiApp.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\MultiApp.runtimeconfig.dev.json
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\MultiApp.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\ref\MultiApp.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\MultiApp.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\MultiApp.Views.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\MultiApp.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\staticwebassets\MultiApp.StaticWebAssets.Manifest.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\staticwebassets\MultiApp.StaticWebAssets.xml
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\scopedcss\bundle\MultiApp.styles.css
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.TagHelpers.input.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.TagHelpers.output.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.RazorCoreGenerate.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.RazorTargetAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.RazorTargetAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\ref\MultiApp.dll
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.pdb
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\new\k8s\kuberenetes mulit-container single pod\MultiApp\MultiApp\obj\Debug\net5.0\MultiApp.csprojAssemblyReference.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\appsettings.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.StaticWebAssets.xml
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.exe
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.deps.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.runtimeconfig.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.runtimeconfig.dev.json
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.Views.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\MultiApp.Views.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.csproj.AssemblyReference.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.AssemblyInfoInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.AssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.csproj.CoreCompileInputs.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.RazorAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.RazorAssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\scopedcss\bundle\MultiApp.styles.css
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\staticwebassets\MultiApp.StaticWebAssets.Manifest.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.TagHelpers.input.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.TagHelpers.output.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.RazorCoreGenerate.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.RazorTargetAssemblyInfo.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.RazorTargetAssemblyInfo.cs
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.Views.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.csproj.CopyComplete
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\refint\MultiApp.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.pdb
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\MultiApp.genruntimeconfig.cache
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\ref\MultiApp.dll
+D:\Education\KPI\FIOT\5_semester\Microservices\Microservices_Lab\JM_lab2_v1\MultiApp\obj\Debug\net5.0\Razor\Pages\Create.cshtml.g.cs

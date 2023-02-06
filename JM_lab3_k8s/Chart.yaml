@@ -1,0 +1,6 @@
+apiVersion: v2
+type: application
+version: 0.0.2
+name: lab3-helm
+appVersion: "v6"
+description: "lab3"

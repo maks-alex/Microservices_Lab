@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: l2-mssql-deployment
+spec:
+  replicas: 1
+  selector:
+     matchLabels:
+       app: l2-mssql
+  template:
+    metadata:
+      labels:
+        app: l2-mssql
+    spec:
+      containers:
+      - name: l2-mssql
+        image: mcr.microsoft.com/mssql/server:2019-latest
+        ports:
+        - containerPort: 1433
+        env:
+        - name: MSSQL_PID
+          value: "Developer"
+        - name: ACCEPT_EULA
+          value: "Y"
+        - name: SA_PASSWORD
+          value: "03031981Maks%"
+        volumeMounts:
+        - name: l2mssqldb
+          mountPath: /var/opt/mssql/data
+      volumes:
+      - name: l2mssqldb
+        persistentVolumeClaim:
+          claimName: l2-mssql-pvc

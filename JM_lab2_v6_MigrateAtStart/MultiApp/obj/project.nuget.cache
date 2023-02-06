@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0Nx/DKAZA7IfcYZ2HW2Lu6sQHH154SPSjjOCIXdvM6oVdAQaQs1eTdsa8k3M7axXVhVVwiVBIJW/1jMAQinhg==",
+  "success": true,
+  "projectFilePath": "D:\\Education\\KPI\\FIOT\\5_semester\\Microservices\\Microservices_Lab\\JM_lab2_v6_MigrateAtStart\\MultiApp\\MultiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

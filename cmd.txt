@@ -1,0 +1,118 @@
+--Lab1--
+minikube start *- start minkube
+minikube start --driver=hyperv *-for Windows
+minikube docker-env *-enter last env
+minikube dashboard *-get minikube dashboard
+docker-compose build *- make images from docker-compose file in minikube VM
+kubectl apply -f deployment-app.yml *-app deployment
+kubectl apply -f deployment-api.yml *-api deployment
+kubectl apply -f service-app.yml *-api service
+kubectl apply -f service-api.yml *-app service
+docker images *- images in VM
+kubectl get all *-all components
+kubectl get pods *-get all pods in VM
+kubectl get deployment *-get all deployments in VM
+kubectl get service *-get all services in VM
+kubectl get ingress *-get
+kubectl delete service *-delete
+kubectl delete deployment *-delete
+kubectl delete ingress *-delete
+docker build -t multiapp-l1 -f Dockerfile . *-update image for app
+
+minikube service service-app-l1 *-run service
+minikube service service-app-l1 --url *- get URL of service
+
+minikube addons enable ingress *- install ingresss
+kubectl get pods -n ingress-nginx *- ingress pods (running)
+nginx -v *-ingress version
+nginx -V *-ingress version extended
+
+kubectl apply -f ingress.yml *- apply Ingress.yaml
+kubectl describe ingress <> *-
+		http://192.168.214.250/ 	-> app
+		http://192.168.214.250/api/Joke -> api
+		
+		*- if ingress not working (for Windows)	
+minikube tunnel *-in new cmd (admin)
+minikube ssh
+curl 192.168.49.2 *-get curl of the page
+kubectl delete ingress *- -> use url of ingress + path to get service
+
+--Lab2--
+minikube start --driver=hyperv *-for Windows
+minikube docker-env *-enter last env
+docker-compose build *- make images from docker-compose file in minikube VM
+
+kubectl apply -f l2-deployment-apipost.yml *-api deployment
+kubectl apply -f l2-deployment-api.yml *-api deployment
+kubectl apply -f l2-deployment-app.yml *-app deployment
+
+kubectl apply -f l2-service-api.yml *-api service
+kubectl apply -f l2-service-apipost.yml *-api service
+kubectl apply -f l2-service-app.yml *-app service
+
+kubectl apply -f l2-mssql-pvc.yml *-pvc
+kubectl apply -f l2-mssql-depoyment.yml *-database deployment
+kubectl get pod l2-mssql-deployment-7b8ddf4ffd-xdv5h --template='{{(index (index .spec.containers 0).ports 0).containerPort}}{{"\n"}}'
+kubectl apply -f l2-mssql-service.yml *-mssql service
+kubectl apply -f l2-mssql-service-loadbalancer.yml *-mssql service of LoadBalancer type - created extra service to connect to the SQL server from MSSQL
+kubectl port-forward pod/sqlserver-889b56d7b-nb2b4 15789:1433
+
+kubectl apply -f l2-ingress.yml *- apply Ingress.yaml - the same IP of ingress as in Lab1
+minikube service l2-service-api --url * - api (to run migration /Jokes/RunMigrate) -http://192.168.201.186:31496
+minikube service l2-service-app --url * - app - http://192.168.201.186:30135
+
+
+
+Test simple CRUD app:
+docker build -t test-crudapp -f Dockerfile . *-
+kubectl apply -f test-app-dep.yml *-
+kubectl apply -f test-app-service.yml *-
+minikube service test-crudapp-service --url *- http://192.168.201.186:30579
+kubectl apply -f l2-test-crud-ingress.yml *-
+
+--Lab3--
+choco install kubernetes-helm *-install helm
+helm version *-version
+helm create test-app *-create helm (folder with files)
+docker build -t firstapp:1.16.0 -f Dockerfile . *-create image
+helm install firsthelm . *-create the chart with the name УfirsthelmФ. Notice the У.Ф at the end of the command which specify that the current directory where we are currently in (i.e. УD:\test-appФ ) is the chart directory
+helm list *-list of helms
+minikube service firsthelm-test-app *-run service
+helm uninstall firsthelm *-uninstall helm
+
+helm template v2 *-check helm template
+helm install --dry-run --debug fair-worm ./mychart *-debug and check values produced	https://helm.sh/docs/chart_template_guide/functions_and_pipelines/
+helm repo add bitnami https://charts.bitnami.com *-add bitnami repo
+helm search repo postgresql *-search in repo
+helm status <helm-name> *-infor about installed release
+kubectl get all *-all components
+
+$ helm repo add my-repo https://charts.bitnami.com/bitnami	*-add repository
+$ helm install my-release my-repo/nginx	*-install nginx from repository
+helm lint [chart] *- вал≥дац≥€ шаблону на в≥дпов≥дн≥сть кращим практикам
+helm template --debug [chart] *- тестуЇ шаблон локально
+helm template test *- in lecture 7 (22:40) - "test" - folder with helm 
+helm install --dry-run --debug l3 . *- сервер рендерить шаблон ≥ повертаЇ його.
+helm get manifest [release] *- перев≥рки шаблону вже встановленого рел≥зу (from helm list)
+helm dependency build [chart] *-dependency of DataBase
+
+myCommands:
+helm create helm *-create helm (folder with files)
+
+helm install --dry-run --debug l3 . *- сервер рендерить шаблон ≥ повертаЇ його.
+helm install l3 . *-install helm when all chart are created
+helm list *-list of helms
+kubectl get all *-all components
+
+
+helm uninstall l3 *-uninstall helm
+
+
+
+
+
+
+
+
+
