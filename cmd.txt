@@ -63,7 +63,6 @@ minikube service l2-service-api --url * - api (to run migration /Jokes/RunMigrat
 minikube service l2-service-app --url * - app - http://192.168.201.186:30135
 
 
-
 Test simple CRUD app:
 docker build -t test-crudapp -f Dockerfile . *-
 kubectl apply -f test-app-dep.yml *-
@@ -71,7 +70,9 @@ kubectl apply -f test-app-service.yml *-
 minikube service test-crudapp-service --url *- http://192.168.201.186:30579
 kubectl apply -f l2-test-crud-ingress.yml *-
 
---Lab3--
+
+
+--Lab3--helm
 choco install kubernetes-helm *-install helm
 helm version *-version
 helm create test-app *-create helm (folder with files)
@@ -105,14 +106,19 @@ helm install l3 . *-install helm when all chart are created
 helm list *-list of helms
 kubectl get all *-all components
 
-
 helm uninstall l3 *-uninstall helm
 
 
+--lab5-----Kafka
+helm dep update helm *-to update existing helm
+helm dep build helm *-to update existing helm
+helm upgrade local helm *-to update existing helm
+helm install l5 . *-install helm for lab5
 
-
-
-
-
+kubectl exec -it pod/kafka-0 -- /bin/bash *-enter pod
+kafka-console-producer.sh *send/read messages
+kafka-console-producer.sh --broker-list 127.0.0.1:9092 --topic test *-send message
+kafka-console-consumer.sh --bootstrap-server 127.0.0.1:9092 --topic test --from-beginning *-read message
+kafka-topics.sh --list --bootstrap-server 127.0.0.1:9092 *-check topic
 
 

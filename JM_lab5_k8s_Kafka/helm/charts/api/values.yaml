@@ -1,0 +1,19 @@
+replicaCount: 1
+
+selector:
+  app: l5-mc-api-v6
+
+image:
+  name: l2-multiapi-v6
+  tag: v6
+  port: 80
+
+service:
+  ports:
+    - name: http
+      port: 8080
+      containerPort: 80
+
+ingress:
+  path: /l5api6/Jokes
+  port: 8080

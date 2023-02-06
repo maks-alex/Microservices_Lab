@@ -1,0 +1,10 @@
+apiVersion: v2
+type: application
+version: 0.0.5
+name: lab5
+appVersion: "v6"
+description: "lab5-kafka"
+dependencies:
+  - name: kafka
+    version: 18.3.1
+    repository: https://charts.bitnami.com/bitnami
